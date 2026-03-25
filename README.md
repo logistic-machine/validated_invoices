@@ -1,4 +1,4 @@
-# Automação de Relatórios e Envios Logísticos (Python)
+# Envios Logísticos (Python)
 
 Este projeto contém ferramentas desenvolvidas para otimizar fluxos de trabalho no setor de logística, integrando Excel, Outlook e GRC (extensão do SAP).
 
